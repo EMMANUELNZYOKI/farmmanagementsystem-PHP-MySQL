@@ -42,11 +42,11 @@ Farm Management System in php and mysql. This system has a ‘Home’ page from 
 
 'About Us' page (Fig 1.2)  allows us to get some more information about the quality and the services of the hospital.
 
-![about](https://user-images.githubusercontent.com/117649821/218290889-45d32ed4-a1b7-4d22-8a97-3896ca2fdddb.png)
+![about](images/about.png)
 
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.3 shows the ‘Contact’ page.
 
-![contact](https://user-images.githubusercontent.com/117649821/218290928-44fa0bd3-ef06-48b6-8d3b-c1ff696baa9f.png)
+![contact](images/contact.png)
 
 The ‘Home’ page consists of 3 modules:
 1. User Module
